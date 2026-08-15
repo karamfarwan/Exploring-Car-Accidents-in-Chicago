@@ -83,7 +83,3 @@ Chicago.ipynb           # Full analysis pipeline: cleaning → feature engineeri
 Dataset_README.md       # Column-level documentation for all three datasets
 ```
 
-
-**ملاحظة:** هالمشروع فعلياً بيستاهل يترفّع بالترتيب اللي حددناه سابقاً — بسبب المكون الجيومكاني القوي (geohashing، إسقاطات جغرافية، تحليل مكاني) اللي بيدعم مباشرة خلفيتك بـQGIS المذكورة بالـProfile. ممكن نفكر نحطه **رابع** (بعد Network Traffic وFinancial Assistant وMedical Texts)، قبل Traffic Signs وDiamond Price.
-
-جاهز نثبت هيك، أو تعدل عليها؟
